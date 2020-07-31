@@ -1,13 +1,1 @@
-A basic template for starting data science projects.
-
-# DS Project Template
-
-Project structure is an important thing in programming as well as data
-science. We want to facilitate peer review, and a prerequisite to that
-is contributing, clean, organized, code that allows for anyone who visits
-your project to be able to reproduce those same results without having
-to contact you personally.
-
-This is the purpose of a README, be sure to complete this as part of
-your project.
-
+This is a binary classification of great books, defined as those with at least 50 ratings and in the top 20% of Wilson-adjusted ratings. (For more details, see build_2.ipynb.) The data was pulled on July 30th, 2020 via goodreads-api-client-python, a lightweight wrapper around the Goodreads API built by [Michelle D Zhang](https://github.com/mdzhang). Its code and documentation can be found [here](https://github.com/mdzhang/goodreads-api-client-python).
